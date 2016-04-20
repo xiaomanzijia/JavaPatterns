@@ -18,6 +18,8 @@ public class ColorPointNew {
         point = new Point(x,y);
     }
 
+
+
     @Override
     public boolean equals(Object obj) {
         if(!(obj instanceof ColorPointNew))
